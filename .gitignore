@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# 工具缓存
+.playwright-cli/
+
+# 输出
+output/
+output-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 日志
+*.log
+
+# 密钥
+.env
+.env.local
+
+# Node
+node_modules/
+
+# 临时
+tmp/
